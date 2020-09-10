@@ -9,7 +9,7 @@ const getDefaults = (name) => ({
 
 export default [
   {
-    ...getDefaults('DataGrid (v1.18.1)'),
+    ...getDefaults('DataGrid'),
     type: 'group',
     children: [
       {
