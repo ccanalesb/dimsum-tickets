@@ -1,2 +1,0 @@
-(this.webpackJsonpreact=this.webpackJsonpreact||[]).push([[4],{146:function(t,e,n){"use strict";n.r(e);var a=n(0),c=n.n(a);e.default=function(){return c.a.createElement("h1",null,"PATH NOT FOUND")}}}]);
-//# sourceMappingURL=4.a74b6b55.chunk.js.map
