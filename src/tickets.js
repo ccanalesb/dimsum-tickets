@@ -21,8 +21,6 @@ export default [
       getDefaults('DataGrid/PUI-3317'),
       getDefaults('DataGrid/ToolbarIssues'),
       getDefaults('DataGrid/WithToggles'),
-      getDefaults('DataGrid/PUI-3241'),
-      getDefaults('DataGrid/PUI-3632'),
       getDefaults('DataGrid/PUI-4239'),
     ],
   },
