@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/dimsum-tickets/precache-manifest.763f05607a111920dc89dd39176564b7.js"
+  "/dimsum-tickets/precache-manifest.625b0c1147f6eb21f228bf8a8e8d9528.js"
 );
 
 self.addEventListener('message', (event) => {

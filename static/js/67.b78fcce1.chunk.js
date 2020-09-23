@@ -1,0 +1,2 @@
+(this.webpackJsonpreact=this.webpackJsonpreact||[]).push([[67],{155:function(e,a,t){"use strict";t.r(a);var r=t(0),l=t.n(r),u=t(711),n=t(533),s=t(550);a.default=Object(r.memo)((function(){return l.a.createElement(u.a,{pageTitle:l.a.createElement(n.a,null,"Automation Rules"),summary:l.a.createElement(s.a,{label:"Rules",value:0,"data-testid":"workflow-rules-header-summary"})})}))}}]);
+//# sourceMappingURL=67.b78fcce1.chunk.js.map
