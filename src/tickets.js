@@ -48,6 +48,10 @@ export default [
         ...getDefaults('PUI-3632'),
         path: 'DataGrid/PUI-3632',
       },
+      {
+        ...getDefaults('PUI-4390'),
+        path: 'DataGrid/PUI-4390',
+      },
     ],
   },
   {
