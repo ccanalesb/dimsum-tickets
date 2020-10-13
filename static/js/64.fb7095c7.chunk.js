@@ -1,2 +1,0 @@
-(this.webpackJsonpreact=this.webpackJsonpreact||[]).push([[64],{125:function(n,t,c){"use strict";c.r(t),c.d(t,"options",(function(){return a}));var a=new Array(30).fill(null).map((function(n,t){return{label:"Option ".concat(t),value:"Option ".concat(t)}}))}}]);
-//# sourceMappingURL=64.fb7095c7.chunk.js.map
